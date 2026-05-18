@@ -2,8 +2,8 @@
   --bg: #050505;
   --surface: #0f0f0f;
   --surface-soft: #161616;
-  --text: #f5efe1;
-  --muted: #bbb1a0;
+  --text: #d4cdbb;
+  --muted: rgb(216, 200, 173);
   --line: rgba(216, 170, 63, 0.2);
   --gold: #d8aa3f;
   --gold-soft: #f3de9b;
